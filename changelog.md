@@ -1,4 +1,8 @@
-# PeerJS Changelog
+# PearJS Changelog
+
+
+## Version 0.3.17
+* update webrtc-adapter version to improve browser compatibility
 
 ## Version 0.3.16
 * Use webrtc-adapter to improve browser compatibility
